@@ -4,7 +4,7 @@ A scalable and modern food delivery web application built using React 19 and Vit
 
 🚀 Live Demo
 
-👉 Add your deployed link here (Vercel)
+👉 Add your deployed link here https://johnson693.github.io/food-delivery-app/
 
 📌 Overview
 
